@@ -5,7 +5,7 @@
 -Choosing the best model and building a web app using streamlit framework of Python for analyzing sentiment and product category of new reviews
 
 ### Skills covered:
-1. Python, Numpy
+1. Python, Numpy, Seaborn
 2. File handling
 3. Vectorizing text data using CountVectorizer library (NLP technique)
 4. Sklearn for model building
